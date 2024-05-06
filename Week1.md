@@ -12,3 +12,4 @@ Sometimes my ideas were too ambitious when I compared them to factors such as th
 ### For example, of the ideas in the picture above: 
 - The text to speech idea was inspired by an album by Lucy Liyou.
 - The Granular synthesiser and the Algorithmic composition tool ideas were too amibtious for my current skill level. Infact I was not even sure how to start building an algorithmic composition tool.  
+  [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week2.html) 
