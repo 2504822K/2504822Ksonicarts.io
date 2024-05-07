@@ -17,7 +17,7 @@ The details below are the contents of the template I completed:
 
 3.  What will the software/hardware requirements be?  What skills will you need to develop?
    
-- MAX MSP
+- MAX MSP 
 - REAPER 
 
 4. Can you give some examples of similar work/artists working in similar ways?
