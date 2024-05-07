@@ -1,5 +1,5 @@
 # WEEK 1
-# General Idea Generation
+# IDEA GENERATION 
 
 In the first week and also prior to the first week of this project, I had been thinking of what kind of projects I would like to make. I made multiple lists of prject ideas. 
 Below is a list of some of the ideas I came up with: 
