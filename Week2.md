@@ -1,5 +1,5 @@
 # WEEK 2
-## Narrowing down Ideas
+## NARROWING DOWN IDEAS
 
 After the first week, I was inspired by both my previous initial ideas from week 1, and what we had discussed in class that week. I also used the template given to us to think through my ideas and structure my thoughts. This template helped me narrow down my ideas, by thinking through aspects such as what outcomes did I want out of the project, what examples did I have for what the outcome could look like. And in what form would the final project take. For example, would it be a MAX Patch, an audio file, a video file, a website etc 
 
