@@ -11,18 +11,19 @@ The details below are the contents of the template I completed:
    
 - I will compose an audiovisual work consisting of either 1 full length audiovisual composition of roughly 10-12 minutes or 4 3-minute audiovisual compositions making up an EP.  If it’s the EP format, a central theme will be chosen and adhered to so that they appear uniform and connected to some extent.  At the moment, I have collected audio samples provided free by NASA which I could use to compose the music aspect of the piece, so space could be the theme, but I am not sure yet.
 
-3. What will the outcome be?  (Installation, performance, fixed composition, audiovisual work etc.)
+2. What will the outcome be?  (Installation, performance, fixed composition, audiovisual work etc.)
    
 - It will either be an audiovisual work available in video format or it could also be an audio only work. 
 
-5. What will the software/hardware requirements be?  What skills will you need to develop?
+3. What will the software/hardware requirements be?  What skills will you need to develop?
    
 - MAX MSP
 - REAPER 
 
-7. Can you give some examples of similar work/artists working in similar ways?
+4. Can you give some examples of similar work/artists working in similar ways?
    
-- Lucy Liyou - Dog Dreams
+- * [Dog Breams by Lucy Liyou](https://www.youtube.com/watch?v=3mHxW46Hgr4&list=OLAK5uy_k4LFDBnV6X9Oj0nJfjOaVtkjvVbRbzS78&ab_channel=LucyLiyou-Topic)
+Lucy Liyou - Dog Dreams
 - Klein - Not a Gangster but Still from Endz
 - Ryoji Ikeda- Data verse 1 
 - Alva Noto – Unieqav #02 Uni Mia
@@ -30,7 +31,7 @@ The details below are the contents of the template I completed:
 - Frank Bretschneider – black.out
 - Plaster - Tangle
 
-9. How will your project be documented?
+5. How will your project be documented?
     
 - Final project via Video and as MAX MSP patch files, a Reaper file of the audio side of the project and also via written documentation of processes, methods etc
    
