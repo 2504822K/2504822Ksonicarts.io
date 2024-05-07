@@ -23,12 +23,12 @@ The details below are the contents of the template I completed:
 4. Can you give some examples of similar work/artists working in similar ways?
    
 - [Dog Breams by Lucy Liyou](https://www.youtube.com/watch?v=3mHxW46Hgr4&list=OLAK5uy_k4LFDBnV6X9Oj0nJfjOaVtkjvVbRbzS78&ab_channel=LucyLiyou-Topic)
-- Klein - Not a Gangster but Still from Endz
-- Ryoji Ikeda- Data verse 1 
-- Alva Noto – Unieqav #02 Uni Mia
-- Atom Strom
-- Frank Bretschneider – black.out
-- Plaster - Tangle
+- [Not a Gangster but Still from Endz by Klein](https://docs.google.com/document/d/1v0FfkSaN9U4SnnOmX5Za-d-r7XFnfZjp/edit)
+- [Data Verse 1 by Ryoji Ikeda](https://www.youtube.com/watch?v=S-vSFDZGfF4&ab_channel=akiraburiburi)
+- [Unieqav #02 Uni Mia by Alva Noto](https://www.youtube.com/watch?v=--mL1-6wxBQ&list=RDEM4tzZIgd_sXWA_3KR3P_PMA&start_radio=1&ab_channel=AlvaNoto)
+- [Atom Strom by Raster](https://www.youtube.com/watch?v=RpAl3ih5BmA&list=RDEMCC0fZm5qRrK3AaFTRNHhIQ&index=10&ab_channel=raster)
+- [Black.out by Frank Bretschneirder ](https://www.youtube.com/watch?v=fplJyKfGc3o&list=RDEMCC0fZm5qRrK3AaFTRNHhIQ&index=15&ab_channel=raster)
+- [Tangle by Plaster](https://www.youtube.com/watch?v=AGBHKMFkHnk&list=RDEMCC0fZm5qRrK3AaFTRNHhIQ&index=37&ab_channel=%5Baudioreact%E2%80%A2lab%5D)
 
 5. How will your project be documented?
     
