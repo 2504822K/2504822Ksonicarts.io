@@ -5,6 +5,7 @@ At the end of week 2, I had a tutorial with my lecteurer who advised me to be as
 
 ### More Ideas for Sonic Arts Project
 I brainstormed some moreideas for the project taking into account my lecterer's advice
+
 #### Resources
 - NASA free space sounds, Need to figure out which ones as the folder is very large.
 - Max4live Sonic Geometry, I could create geometric based sounds on MAX MSP
