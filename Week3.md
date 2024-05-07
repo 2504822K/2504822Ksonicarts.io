@@ -19,7 +19,7 @@ I brainstormed some more ideas for the project taking into account my lecturer's
 #### Sound Ideas
 - Melodic
 - Heavy Bass
-- Sound bed or undercurrent (I could start with this undercurrent, the idea in mind is the undercurrent sound used in alot of RAP music. [This tutorial]([https://www.youtube.com/watch?]) by The Daydream Sound on YouTube could be helpful for learning how to compose an undercurrent, and then translating the ideas to the experiental electronic music I am aiming to make. 
+- Sound bed or undercurrent (I could start with this undercurrent, the idea in mind is the undercurrent sound used in alot of RAP music. [This tutorial](https://www.youtube.com/watch?) by The Daydream Sound on YouTube could be helpful for learning how to compose an undercurrent, and then translating the ideas to the experiental electronic music I am aiming to make. 
 
 ### Project Presentation
 The project presentation I made can be downloaded using the link below. It is divided into the following sections: 
@@ -28,7 +28,7 @@ The project presentation I made can be downloaded using the link below. It is di
 - Methods: What are my methods of composition ?
 - Summary: A summary of my thoughts, expectations for the project as well as my biggest concerns in embarking on this project. 
 
- Project Link: [SONIC ARTS project presentation by 2504822K.pptx](https://github.com/2504822K/mysonicartsdocumentation.io/files/15236270/SONIC.ARTS.project.presentation.by.2504822K.pptx)
+ Presentation Link: [SONIC ARTS project presentation by 2504822K.pptx](https://github.com/2504822K/mysonicartsdocumentation.io/files/15236270/SONIC.ARTS.project.presentation.by.2504822K.pptx)
 
 
 
