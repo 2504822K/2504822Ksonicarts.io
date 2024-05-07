@@ -2,7 +2,7 @@
 
 At the end of week 2, I had a tutorial with my lecteurer who advised me to be as specific as possible in my idea formation phase. So for week 3, I comprehensively examined my idea, and got down to the specifs. I also prepared a project presentation which showcased my ideas. 
 
-## Porject Presentation
+## Project Presentation
 The project presentation I made can be downloaded using the link below. It is divided into the following sections: 
 - General Idea: An indepth explanation of my Idea
 - Inspirations: Which music and artists have inspired my idea or which artists will I try to emulate as well what aspects of their work am I looking at for inspiration.
