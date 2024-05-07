@@ -11,7 +11,7 @@ The details below are the contents of the template I completed:
    
 - I will compose an audiovisual work consisting of either 1 full length audiovisual composition of roughly 10-12 minutes or 4 3-minute audiovisual compositions making up an EP.  If it’s the EP format, a central theme will be chosen and adhered to so that they appear uniform and connected to some extent.  At the moment, I have collected audio samples provided free by NASA which I could use to compose the music aspect of the piece, so space could be the theme, but I am not sure yet.
 
-### What will the outcome be?  (Installation, performance, fixed composition, audiovisual work etc.)
+### What will the outcome be? (Installation, performance, fixed composition, audiovisual work etc ) 
    
 - It will either be an audiovisual work available in video format or it could also be an audio only work. 
 
