@@ -9,7 +9,7 @@ Brainstorming ideas for the project specifics.
 - NASA free space sounds
 - Max4live Sonic Geometry
   
-  #### Visual Ideas
+ #### Visual Ideas
 - Rainbow effect- Louise Harris' Alocas
 - Using Points eg Noise
 - Very Gradual
