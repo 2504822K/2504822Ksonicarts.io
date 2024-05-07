@@ -7,20 +7,20 @@ The details below are the contents of the template I completed:
 
 ## Sonic Arts: Individual Creative Project – Project Proposal
 
-1. Write a brief project proposal below, detailing what the creative project you think you’d like to tackle might be ?
+### Write a brief project proposal below, detailing what the creative project you think you’d like to tackle might be ?
    
-- I will compose an audiovisual work consisting of either 1 full length audiovisual composition of roughly 10-12 minutes or 4 3-minute audiovisual compositions making up an EP.  If it’s the EP format, a central theme will be chosen and adhered to so that they appear uniform and connected to some extent.  At the moment, I have collected audio samples provided free by NASA which I could use to compose the music aspect of the piece, so space could be the theme, but I am not sure yet.
+I will compose an audiovisual work consisting of either 1 full length audiovisual composition of roughly 10-12 minutes or 4 3-minute audiovisual compositions making up an EP.  If it’s the EP format, a central theme will be chosen and adhered to so that they appear uniform and connected to some extent.  At the moment, I have collected audio samples provided free by NASA which I could use to compose the music aspect of the piece, so space could be the theme, but I am not sure yet.
 
-2. What will the outcome be?  (Installation, performance, fixed composition, audiovisual work etc.)
+ ### What will the outcome be?  (Installation, performance, fixed composition, audiovisual work etc.)
    
-- It will either be an audiovisual work available in video format or it could also be an audio only work. 
+It will either be an audiovisual work available in video format or it could also be an audio only work. 
 
-3. What will the software/hardware requirements be?  What skills will you need to develop?
+ ### What will the software/hardware requirements be?  What skills will you need to develop?
    
 - MAX MSP 
 - REAPER 
 
-4. Can you give some examples of similar work/artists working in similar ways?
+### Can you give some examples of similar work/artists working in similar ways?
    
 - [Dog Dreams by Lucy Liyou](https://www.youtube.com/watch?v=3mHxW46Hgr4&list=OLAK5uy_k4LFDBnV6X9Oj0nJfjOaVtkjvVbRbzS78&ab_channel=LucyLiyou-Topic)
 - [Not a Gangster but Still from Endz by Klein](https://www.youtube.com/watch?v=198pMivrpPY&ab_channel=Klein-Topic)
@@ -30,7 +30,7 @@ The details below are the contents of the template I completed:
 - [Black.out by Frank Bretschneirder ](https://www.youtube.com/watch?v=fplJyKfGc3o&list=RDEMCC0fZm5qRrK3AaFTRNHhIQ&index=15&ab_channel=raster)
 - [Tangle by Plaster](https://www.youtube.com/watch?v=AGBHKMFkHnk&list=RDEMCC0fZm5qRrK3AaFTRNHhIQ&index=37&ab_channel=%5Baudioreact%E2%80%A2lab%5D)
 
-5. How will your project be documented?
+### How will your project be documented?
     
 - Final project via Video and as MAX MSP patch files, a Reaper file of the audio side of the project and also via written documentation of processes, methods etc
    
