@@ -1,4 +1,4 @@
-# WEEEK 11
+# WEEK 11
 
 ## Aim 
 The aim of this week is to making corrections on the second piece based on my lecturer’s feedback, complete writing and editing my reflection and documentation and then submit the entire project. 
