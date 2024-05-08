@@ -3,7 +3,7 @@
 ## Aim 
 The aim of this week is to making corrections on the second piece based on my lecturer’s feedback, complete writing and editing my reflection and documentation and then submit the entire project. 
 
-### Reflictions 
+### Reflections 
 
 #### Beginning of the Week
 -  I am just reviewing my lecturers’ feedback on track two. I also need to brainstorm project names and track names. After this, I will be in a position to submit the project before the deadline. My lecturer pointed out the following issues and ways I could improve track two
