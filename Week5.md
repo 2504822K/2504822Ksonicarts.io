@@ -10,11 +10,11 @@ I imagined a first time astronaut in a spaceship afraid to leave the spaceship f
 
 ## Taking inspiration from Interstellar
 
-Since I had already had a theme in mind (space), I looked up music composed with a similar theme.  In my research, I came across the music of Interstellar 
+Since I already had a theme in mind (space), I looked up music composed with a similar theme.  In my research, I came across the music of Interstellar 
 
-## Notes from How Hans Zimmer Creates the Sound of Space in Interstellar 
+## Notes from [How Hans Zimmer Creates the Sound of Space in Interstellar](https://www.youtube.com/watch?v=00Vz7ybWp_c&t=3s&ab_channel=TheDaydreamSound)
 
-I found a really good video on YouTube which breaks down how Hans Zimmer creates the sound of space in Interstellar
+I found the above video on YouTube which breaks down how Hans Zimmer creates the sound of space in Interstellar
 - Wind, Air, High C, Major+Minor modes, melody, spaced chords. 
 - Unnerving silence- then into the melodic part which will start with the one single high pitched penetrating sound. 
 - Ends on the same one note that doesn't necessarily fade but just keeps going
@@ -22,6 +22,6 @@ I found a really good video on YouTube which breaks down how Hans Zimmer creates
 
 ## Week 4 Diary and Reflections 
 
-Start of the week : Dark Winds sound - I will first focus on this. I want it to be between 1 to 2 minutes long, and it should sound like the winds of space, it's the sort of sound one should hear upon first opening the spaceship door and staring out into space and these winds with the hum and bubble of the spaceship/space station machinery droning on in the background. 
+Start of the week :I will first focus on Dark winds sounds. I want it to be between 1 to 2 minutes long, and it should sound like the wind in space, cold and wild. It's the sort of sound one should hear upon first opening the spaceship door and staring out into space and these winds with the hum and bubble of the spaceship/space station machinery droning on in the background. 
 
 End of the week : I don't think I have yet captured the right kind of wind, and something about it feels incomplete but I am unsure how to tie it all together yet. One idea I have is to include a low perceivable tone, a drone, maybe a low C or a low Bb. This could help bring out the sound of the background machinery amidst the sounds of the wind. 
