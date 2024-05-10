@@ -10,7 +10,7 @@ I imagined a first time astronaut in a spaceship afraid to leave the spaceship f
 
 ## Taking inspiration from Interstellar
 
-Since I already had a theme in mind (space), I looked up music composed with a similar theme.  In my research, I came across the music of Interstellar 
+Since I already had a theme in mind (space), I reserached the music of various space themed movies. For example: Apollo(1995), Gravity (2013), The Martian(2015), and Interstellar(2014). I found that interstellar sound track especially the first piece, Dreaming of the crush, closely matched the ideas I had in mind and so I studied it to understand how Hans Zimmer created the tension and how he uses music and sound design to tell the story. 
 
 ## Notes from [How Hans Zimmer Creates the Sound of Space in Interstellar](https://www.youtube.com/watch?v=00Vz7ybWp_c&t=3s&ab_channel=TheDaydreamSound)
 
