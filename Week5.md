@@ -28,4 +28,4 @@ End of the week : I don't think I have yet captured the right kind of wind, and 
 
 End of the project : Below is a snippet of the wind sounds I created. This is the actual sounds that you hear at the begiining of the piece and throughout(although with different effects added to offer some contrast. These sounds form the anempathetic componet of track one as discussed in my corresponding write up. Anempathetic sounds as defined by Michel Chion (1994) are auditory elements within a composition that remain indifferent to the emotional content or narrative development, providing a steady or neutral backdrop unaffected by the fluctuating mood or intensity of the music.
 
-Snippet of wind sounds [Snippet of Wind Sounds](https://soundcloud.com/2504822k/snippet-of-wind-sounds)
+[Snippet of Wind Sounds](https://soundcloud.com/2504822k/snippet-of-wind-sounds)
