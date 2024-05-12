@@ -37,6 +37,6 @@ The ideas I came up with were often inspired by various pieces of music or audio
 Sometimes my ideas were too ambitious when I compared them to factors such as the timeline, the workload of a fourth year student, as well as my own skills in whichever techonlogy or genre of music I was envisioning. 
 
 ### For example, of the ideas in the picture above: 
-- The text to speech idea was inspired by an album by Lucy Liyou called Welfae/Practice [Welfare/Practice](https://www.youtube.com/watch?v=moMSYxjvRZg&list=OLAK5uy_nA1YFV0j9MI7FPBmBpOS99jDdznl29Nuo&index=2&ab_channel=LucyLiyou-Topic)   
+- The text to speech idea was inspired by an album by Lucy Liyou called [Welfare/Practice](https://www.youtube.com/watch?v=moMSYxjvRZg&list=OLAK5uy_nA1YFV0j9MI7FPBmBpOS99jDdznl29Nuo&index=2&ab_channel=LucyLiyou-Topic)   
 - The Granular synthesiser and the Algorithmic composition tool ideas were too amibtious for my current skill level. Infact I was not even sure how to start building an algorithmic composition tool.  
   [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week2.html) 
