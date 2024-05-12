@@ -20,7 +20,7 @@ I found the above video on YouTube which breaks down how Hans Zimmer creates the
 - Ends on the same one note that doesn't necessarily fade but just keeps going
 - Through lines can be a broken melody which is realised later on. 
 
-## Week 4 Diary and Reflections 
+### Reflections 
 
 Start of the week :I will first focus on Dark winds sounds. I want it to be between 1 to 2 minutes long, and it should sound like the wind in space, cold and wild. It's the sort of sound one should hear upon first opening the spaceship door and staring out into space and these winds with the hum and bubble of the spaceship/space station machinery droning on in the background. 
 
