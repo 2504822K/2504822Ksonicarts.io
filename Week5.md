@@ -29,3 +29,16 @@ End of the week : I don't think I have yet captured the right kind of wind, and 
 End of the project : Below is a snippet of the wind sounds I created. This is the actual sounds that you hear at the begiining of the piece and throughout(although with different effects added to offer some contrast. These sounds form the anempathetic componet of track one as discussed in my corresponding write up. Anempathetic sounds as defined by Michel Chion (1994) are auditory elements within a composition that remain indifferent to the emotional content or narrative development, providing a steady or neutral backdrop unaffected by the fluctuating mood or intensity of the music.
 
 [Snippet of Wind Sounds](https://soundcloud.com/2504822k/snippet-of-wind-sounds)
+
+This particular snippet was composed using NASA's 590329main_ringtone_SDO_LaunchNats sound which I affected by adding a number of different effets. The other wind sounds in the track also used the same NASA sample, but had either more effects or fewer effects so that I added some contrast to the sound. 
+
+[Original 590329main_ringtone_SDO_LaunchNats sound](https://soundcloud.com/2504822k/snippet-of-wind-sounds)
+
+
+Here is a picture of some of the effects I used for the wind sounds 
+
+![Effects used in wind sounds](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/09d2cb01-1795-40bf-8ccf-6336d4f7d3cc)
+
+
+
+
