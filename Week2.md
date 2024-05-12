@@ -1,9 +1,9 @@
 # WEEK 2
 ## NARROWING DOWN IDEAS
 
-After the first week, I was inspired by both my previous initial ideas from week 1, and what we had discussed in class that week. I also used the template given to us to think through my ideas and structure my thoughts. This template helped me narrow down my ideas, by thinking through aspects such as what outcomes did I want out of the project, what examples did I have for what the outcome could look like. And in what form the final project could take. For example, would it be a MAX Patch, an audio file, a video file, a website etc 
+After the first week of the term, I was inspired by both my previous initial ideas from week 1, and what we had discussed in class that week. I used the template given to us to think through my ideas and structure my thoughts. This template has helped me narrow down my ideas, by thinking through aspects such as what outcomes I wanted out of the project, what examples did I have for what the outcome could look like. And in what form the final project could take. For example, would it be a MAX Patch, an audio file, a video file, a website etc 
 
-The details below are the contents of the template I completed:
+The details below are the contents of the template I have completed from this reflection:
 
 ## Sonic Arts: Individual Creative Project – Project Proposal
 
@@ -36,6 +36,6 @@ The details below are the contents of the template I completed:
 
 ### Reflection
    
-As you can see in the template, I amalgamated different ideas from some of my week 1 ideas to form one idea. My chosen idea at this point is  to either produce one long piece or 3 to 4 short pieces to form an EP. This EP idea is to use space sounds from NASA. However, at this point, I still have not deciced on what format the piece would take: audiovisual or just audio. 
+As you can see in the template, I amalgamated different ideas from some of my week 1 ideas to form one idea. My chosen idea at this point is to either produce one long piece or 3 to 4 short pieces to form an EP. This EP idea is to use space sounds from NASA. However, at this point, I still have not deciced on what format the piece would take: audiovisual or just audio. 
 
   [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week3.html)
