@@ -30,9 +30,9 @@ End of the project : Below is a snippet of the wind sounds I created. This is th
 
 [Snippet of Wind Sounds](https://soundcloud.com/2504822k/snippet-of-wind-sounds)
 
-This particular snippet was composed using NASA's 590329main_ringtone_SDO_LaunchNats sound which I affected by adding a number of different effets. The other wind sounds in the track also used the same NASA sample, but had either more effects or fewer effects so that I added some contrast to the sound. 
+This particular snippet was composed using NASA's 590329main_ringtone_SDO_LaunchNats sound which I affected trimming and adding a number of different effets. The other wind sounds in the track also used the same NASA sample, but had either more effects or fewer effects so that I added some contrast to the sound. 
 
-[Original 590329main_ringtone_SDO_LaunchNats sound](https://soundcloud.com/2504822k/snippet-of-wind-sounds)
+[Original 590329main_ringtone_SDO_LaunchNats sound](https://soundcloud.com/2504822k/590329main-ringtone-sdo-launchnats?si=991742bf28fc4f5c910fd337dc8b4536&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 
 Here is a picture of some of the effects I used for the wind sounds 
