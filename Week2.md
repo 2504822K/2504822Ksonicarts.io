@@ -1,7 +1,7 @@
 # WEEK 2
 ## NARROWING DOWN IDEAS
 
-After the first week, I was inspired by both my previous initial ideas from week 1, and what we had discussed in class that week. I also used the template given to us to think through my ideas and structure my thoughts. This template helped me narrow down my ideas, by thinking through aspects such as what outcomes did I want out of the project, what examples did I have for what the outcome could look like. And in what form would the final project take. For example, would it be a MAX Patch, an audio file, a video file, a website etc 
+After the first week, I was inspired by both my previous initial ideas from week 1, and what we had discussed in class that week. I also used the template given to us to think through my ideas and structure my thoughts. This template helped me narrow down my ideas, by thinking through aspects such as what outcomes did I want out of the project, what examples did I have for what the outcome could look like. And in what form the final project could take. For example, would it be a MAX Patch, an audio file, a video file, a website etc 
 
 The details below are the contents of the template I completed:
 
@@ -9,7 +9,7 @@ The details below are the contents of the template I completed:
 
 ### Write a brief project proposal below, detailing what the creative project you think you’d like to tackle might be ?
    
-- I will compose an audiovisual work consisting of either 1 full length audiovisual composition of roughly 10-12 minutes or 4 3-minute audiovisual compositions making up an EP.  If it’s the EP format, a central theme will be chosen and adhered to so that they appear uniform and connected to some extent.  At the moment, I have collected audio samples provided free by NASA which I could use to compose the music aspect of the piece, so space could be the theme, but I am not sure yet.
+- I will compose an audiovisual work consisting of either 1 full length audiovisual composition of roughly 8-12 minutes or various short audiovisual compositions making up an EP.  If it’s the EP format, a central theme will be chosen and adhered to so that they appear uniform and connected to some extent.  At the moment, I know of audio tracks provided free by NASA which I could use to compose the music aspect of the piece, so space could be the theme, but I am not sure yet.
 
 ### What will the outcome be? (Installation, performance, fixed composition, audiovisual work etc ) 
    
@@ -33,7 +33,9 @@ The details below are the contents of the template I completed:
 ### How will your project be documented?
     
 - Final project via Video and as MAX MSP patch files, a Reaper file of the audio side of the project and also via written documentation of processes, methods etc
+
+### Reflection
    
-As you can see in the template, I had amalgamated different ideas from some of my week 1 ideas to form one idea. My chosen idea at this point was to either produce one long piece or 3 to 4 short pieces to form an EP. This EP idea was to use space sounds from NASA. However, at this point, I still had not deciced on what format the piece would take: audiovisual or just audio. 
+As you can see in the template, I amalgamated different ideas from some of my week 1 ideas to form one idea. My chosen idea at this point is  to either produce one long piece or 3 to 4 short pieces to form an EP. This EP idea is to use space sounds from NASA. However, at this point, I still have not deciced on what format the piece would take: audiovisual or just audio. 
 
   [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week3.html)
