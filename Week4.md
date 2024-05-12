@@ -41,8 +41,10 @@ I think I now have a sizeable amount of sound tracks to use, but I think I will 
 
 I am really stuggling creating the undercurrent. I have so many ideas and I am unsure which ones are better. I dont know what I am composing towards anymore. All I know is I have made 3 different undercurrents and none of them inspire me. I feel a bit dejected and worried about the deadline. 
 
+#### After the project 
 Please find attached below a copy of one of the undercurrent tracks I composed in week 4. The volume is very low in it as that was something I was struggling with at this point in the project. Its something I worked on later on after my lectuerer advised me on it. This undercurrent track was considered a failure at this point, but later on in the project I used aspects of it in both tracks 1 and 2, especially the interesting panned sounds in the middle section. 
 
-
+[Undercurrent track 2](https://soundcloud.com/2504822k/undercurrent-track-2?si=958fa7981d38403f905e83efc0576793&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+)
 
   [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week5.html) 
