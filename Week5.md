@@ -26,7 +26,7 @@ Start of the week :I will first focus on Dark winds sounds. I want it to be betw
 
 End of the week : I don't think I have yet captured the right kind of wind, and something about it feels incomplete but I am unsure how to tie it all together yet. One idea I have is to include a low perceivable tone, a drone, maybe a low C or a low Bb. This could help bring out the sound of the background machinery amidst the sounds of the wind. 
 
-End of the project : Below is a snippet of the wind sounds I created. This is the actual sounds that you hear at the begiining of the piece and throughout(although with different effects added to offer some contrast. These sounds form the anempathetic componet of track one as discussed in my corresponding write up. Anempathetic sounds as defined by Michel Chion (1994) are auditory elements within a composition that remain indifferent to the emotional content or narrative development, providing a steady or neutral backdrop unaffected by the fluctuating mood or intensity of the music.
+End of the project : Below is a snippet of the wind sounds I created. This is the actual sounds that you hear at the begining of the piece and throughout although with different effects added to offer some contrast. These sounds form the anempathetic componet of track one as discussed in my corresponding write up. Anempathetic sounds as defined by Michel Chion (1994) are auditory elements within a composition that remain indifferent to the emotional content or narrative development, providing a steady or neutral backdrop unaffected by the fluctuating mood or intensity of the music.
 
 [Snippet of Wind Sounds](https://soundcloud.com/2504822k/snippet-of-wind-sounds)
 
