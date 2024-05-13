@@ -25,3 +25,4 @@ I have spent the majority of this week working on the middle (B) section of the 
 #### End of the week 
 - I sent the entire project to my lecturer for feedback. However, I am not sure if the piece is fully done. I was in two minds about adding more sound to the middle section because I feel this section is too sparse and maybe boring. But then again I am worried if I add more to this section, it will feel crowded and will not have the desired effect for when the crescendo does come along which is really the most impactful moment of the entire piece. 
 
+  [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week8.html)
