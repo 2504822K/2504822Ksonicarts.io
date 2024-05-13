@@ -28,3 +28,5 @@ The main aim of this week is to correct all the mistakes and improvements that m
 - I have also finalised the first piece, now all my attension will be on the second track only. I might send the first track to my lecturer again especially since I have had so much difficulty with the sound levels. 
 
 - This has defintely been the least productive week so far! 
+
+  [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week10.html)
