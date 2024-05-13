@@ -14,6 +14,11 @@ Below is a picture of the effects I added to shape the melodic idea.
 
 ![Melodic idea effects](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/e4a57630-8ad0-49a2-900a-ce773fdb8579)
 
+Below is a picture of some of the notes I made whilst brainstorming ideas for the melodic idea
+
+![Untitled design](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/9cc829eb-d900-4846-94f0-e2b2a5e52dba)
+
+
 ### What I need to work on
 
 - Shape of the wind sounds, in particular how to fade in and out the various winds sounds.
