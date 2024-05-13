@@ -40,5 +40,5 @@ Here is a picture of some of the effects I used for the wind sounds
 ![Effects used in wind sounds](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/09d2cb01-1795-40bf-8ccf-6336d4f7d3cc)
 
 
-
+  [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week6.html)
 
