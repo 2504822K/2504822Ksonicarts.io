@@ -26,6 +26,10 @@ Below is a picture of some of the notes I made whilst brainstorming ideas for th
 - The middle section should have some sort of melody or chords. 
 - Add movement/ motion or contrast to the piece so that it doesnt sound so static. 
 
+Below is a couple of pictures of my notes when I was trying to figure out the arrangement of al items in track 1
+
+![Collage](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/f8a949c5-03dc-416c-9d0f-c0b73bfccc9f)
+
 ### Reflections 
 
 #### At the beginninhg of the week
