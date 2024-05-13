@@ -32,3 +32,4 @@ I created track 2 using similar sound design and composition techniques as in tr
 
 - The Waveshaper and waveshapping distortion effects were instrumental to the composition of track 2 and I ended up using them a couple of times such as in [this sound](https://soundcloud.com/2504822k/paramdistorted?si=29480f3de1e04a92ada51a24196cb3c9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) which is found towards the end of track 2. 
 
+  [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week11.html)
