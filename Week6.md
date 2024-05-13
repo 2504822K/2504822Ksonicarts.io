@@ -28,11 +28,11 @@ Below is a picture of some of the notes I made whilst brainstorming ideas for th
 
 Below is a couple of pictures of my notes when I was trying to figure out the arrangement of al items in track 1
 
-![Collage](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/f8a949c5-03dc-416c-9d0f-c0b73bfccc9f)
+![Collage of arrangement](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/f8a949c5-03dc-416c-9d0f-c0b73bfccc9f)
 
 ### Reflections 
 
-#### At the beginninhg of the week
+#### At the beginning of the week
 
 I am having trouble with volumes. I recorded my sampled sounds and melody too low because I initially envisioned them as background sounds. I have increased each track volume but it is still very low. I can’t hear it without my headphones.
 
@@ -44,5 +44,5 @@ I have discovered that the problem is not entirely because my track volumes are 
 
 I composed the crescendo and the final parts of the piece. The crescendo was very difficult to compose because I couldnt figure out the perfect crescendo points. It still feels a little weak. I have so far only used the static sound to build it, but I think adding a few textured sounds could really make it shine. I especially like the build up to it. It's very satisfying. I also found the perfect place to fade the melody towards the start of the piece. It flows nicely. However, I am still in two minds about including the melody at the very end of the piece. I am worried it will sound too disjointed.The aim for next week is to finish a first draft of the piece and send it for feedback to my lecturer. I also need to figure out if I am working on either visuals or another piece.
 
-  [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week7.html)
+  [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week8.html)
 
