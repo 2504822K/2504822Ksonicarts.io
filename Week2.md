@@ -34,6 +34,10 @@ The details below are the contents of the template I have completed from this re
     
 - Final project via Video and as MAX MSP patch files, a Reaper file of the audio side of the project and also via written documentation of processes, methods etc
 
+### Below is a copy of my written Notes from Week 1
+
+![PXL_20240419_230941322](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/7b5d1398-a7bd-4b23-99b6-47a2e2751470)
+
 ### Reflection
    
 As you can see in the template, I amalgamated different ideas from some of my week 1 ideas to form one idea. My chosen idea at this point is to either produce one long piece or 3 to 4 short pieces to form an EP. This EP idea is to use space sounds from NASA. However, at this point, I still have not deciced on what format the piece would take: audiovisual or just audio. 
