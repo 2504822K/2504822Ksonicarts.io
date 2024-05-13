@@ -6,7 +6,7 @@
 
 The main aim of this week is to create the main elements of the piece. I luckily managed to create a melodic idea over the weekend. This idea has helped me situate where other componets of the composition could go.  
 
-### The melodic idea i composded during the weekend [The melodic Idea I composed during the weekend](https://soundcloud.com/2504822k/melodic-idea?si=5b702056b630418ca19acb3431f3787b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+[The melodic Idea I composed during the weekend](https://soundcloud.com/2504822k/melodic-idea?si=5b702056b630418ca19acb3431f3787b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 
 I created a sample using Reaper's Reasynth and my midi keyboard, I then used Reaper's time stretch algorithm to stetch and affcet the sample sound. This gave the sound a slight echo and prolonged the notes. I then used Reaper's sampler to compose a melody on my keyboard. I  also added other effects to smooth out the sound. Later on I also used the inbuild piano in reaper when creating simple ideas such as the oscillating notes in the B section of the piece. 
 
