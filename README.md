@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/2159bca3-c68e-43f5-a5b1-eb8f391b352f) 
  
-A Website documenting my composition process
+A Website documenting my composition process for the track titled "An Object In Motion" 
 
 By: 2504822K
 
