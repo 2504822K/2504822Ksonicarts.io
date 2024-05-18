@@ -4,7 +4,7 @@
 
 ### Aim
 
-The main aim of this week is to either create the visual side of the piece or get started on the next audio only piece. I am unsure which direction I want to take the project. Whilst it would be great to create two pieces and also visuals for both pieces. I think at my current skill level, I will not be able to work fast enough to achieve this within the remaining time. I have to choose one, either creating visual ideas for track one or creating a second audio only track. 
+The main aim of this week is to either create the visual side of the piece or get started on the next audio only piece or to add to the current piece to make it slightly longer to the required eight minutes. I am unsure which direction I want to take the project. Whilst it would be great to create two pieces and also visuals for both pieces. I think at my current skill level, I will not be able to work fast enough to achieve this within the remaining time. 
 
 ### Reflections
 
