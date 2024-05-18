@@ -36,7 +36,7 @@ Below is a list of some of the ideas I came up with:
 The ideas I have come up with are inspired by various pieces of music or audiovisual pieces I have watched or listened to. Some ideas are based on sounds that I like and want to emulate. 
 Some of my ideas seem too ambitious when I compare them to factors such as the timeline, the workload of a fourth year student, as well as my own skills in whichever techonlogy or genre of music I envision.  
 
-### For example, of the ideas in the picture above: 
+### For example, of the ideas above: 
 - The text to speech idea was inspired by an album by Lucy Liyou called [Welfare/Practice](https://www.youtube.com/watch?v=moMSYxjvRZg&list=OLAK5uy_nA1YFV0j9MI7FPBmBpOS99jDdznl29Nuo&index=2&ab_channel=LucyLiyou-Topic)   
 - The Granular synthesiser and the Algorithmic composition tool ideas were too amibtious for my current skill level. Infact I was not even sure how to start building an algorithmic composition tool.  
   [Next Page ⮕](https://2504822k.github.io/mysonicartsdocumentation.io/Week2.html) 
