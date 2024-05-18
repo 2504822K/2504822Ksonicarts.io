@@ -14,11 +14,11 @@ The main aim of this week is to either create the visual side of the piece or ge
 
 #### Middle of the week 
 
-- I created a bunch of MAX visual patches and also a bunch of MAX patches to generate glitchy sounds. I think I want to go for a glitchy abstract piece if I do another track instead. I am still undecided and I am feelinmg a little bit stressed because time is running out.
+- I created a number of MAX visual patches and also a bunch of MAX patches to generate glitchy sounds. I think I want to go for a glitchy abstract piece if I do another track instead. I am still undecided and I am feelinmg a little bit stressed because time is running out.
 
 #### End of the week 
 
-- I have decided to just create a second audio only piece instead of visualising the first one. This is because I think this idea will work best for my overall project simply visualising the first one. Also I am conscious of time and I have not gotten any inspiration from the visual ideas I have come up with, however the glitchy sounds I have created this week have given me some possible avenues to delve into and develop into full ideas. 
+- With all the audio glitches I ahve created for the second track, I have realised that It wil be better if I used this audio to further enrich the fast track and also to compose it so that it is a little longe. This is because I think this idea will work best for my overall project rather than creating a quick second piece which will most likely lack the depth and character first one has. Also I am conscious of time and I have not gotten any inspiration from the visual ideas I have come up with, however the glitchy sounds I have created this week have given me some possible avenues to delve into and develop into full ideas. 
 
 ### List of some of the sounds I created using MAX MSP. 
 
