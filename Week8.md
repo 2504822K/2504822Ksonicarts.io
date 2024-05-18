@@ -18,7 +18,7 @@ The main aim of this week is to either create the visual side of the piece or ge
 
 #### End of the week 
 
-- With all the audio glitches I ahve created for the second track, I have realised that It wil be better if I used this audio to further enrich the fast track and also to compose it so that it is a little longe. This is because I think this idea will work best for my overall project rather than creating a quick second piece which will most likely lack the depth and character first one has. Also I am conscious of time and I have not gotten any inspiration from the visual ideas I have come up with, however the glitchy sounds I have created this week have given me some possible avenues to delve into and develop into full ideas. 
+- With all the audio glitches I have created for the second track, I have realised that It wil be better if I used this audio to further enrich the fast track and also to compose it so that it is a little longer. This is because I think this idea will work best for my overall project rather than creating a quick second piece which will most likely lack the depth and character the first one has. Also I am conscious of time and I have not gotten any inspiration from the visual ideas I have come up with, however the glitchy sounds I have created this week have given me some possible avenues to delve into and develop into full ideas. 
 
 ### List of some of the sounds I created using MAX MSP. 
 
