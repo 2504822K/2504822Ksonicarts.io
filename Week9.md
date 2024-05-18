@@ -17,7 +17,7 @@ The main aim of this week is to correct all the mistakes and improvements that m
 
 #### End of the week 
 
-- I think my mix is sounding better overall, but I will not be sure until I use the better headphones. I have also realised that I do not like how the melody just abdruptly returns at the end of the piece so I have created some additional sounds which I think work well to introduce the melody again. 
+- I think my mix is sounding better overall, but I will not be sure until I use the better headphones. I have also realised that I do not like how the melody just abruptly returns at the end of the piece so I have created some additional sounds which I think work well to introduce the melody again. 
 
  
 
