@@ -8,7 +8,7 @@ The main aim of this week is to create the main elements of the piece. I luckily
 
 [The melodic Idea I composed during the weekend](https://soundcloud.com/2504822k/melodic-idea?si=5b702056b630418ca19acb3431f3787b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 
-I created a sample using Reaper's Reasynth and my midi keyboard, I then used Reaper's time stretch algorithm to stetch and affcet the sample sound. This gave the sound a slight echo and prolonged the notes. I then used Reaper's sampler to compose a melody on my keyboard. I  also added other effects to smooth out the sound. Later on I also used the inbuild piano in reaper when creating simple ideas such as the oscillating notes in the B section of the piece. 
+I created a sample using Reaper's Reasynth and my midi keyboard, I then used Reaper's time stretch algorithm to stetch and affect the sample sound. This gave the sound a slight echo and prolonged the notes. I then used Reaper's sampler to compose a melody on my keyboard. I  also added other effects to smooth out the sound. Later on I also used the inbuild piano in reaper when creating simple ideas such as the oscillating notes in the B section of the piece. 
 
 Below is a picture of the effects I added to shape the melodic idea. 
 
@@ -26,7 +26,7 @@ Below is a picture of some of the notes I made whilst brainstorming ideas for th
 - The middle section should have some sort of melody or chords. 
 - Add movement/ motion or contrast to the piece so that it doesnt sound so static. 
 
-Below is a couple of pictures of my notes when I was trying to figure out the arrangement of al items in track 1
+Below is a couple of pictures of my notes when I was trying to figure out the arrangement of all items in track 1
 
 ![Collage of arrangement](https://github.com/2504822K/mysonicartsdocumentation.io/assets/145678268/f8a949c5-03dc-416c-9d0f-c0b73bfccc9f)
 
