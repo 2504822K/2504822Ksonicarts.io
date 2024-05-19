@@ -14,7 +14,7 @@ The main aim of this week is to either create the visual side of the piece or ge
 
 #### Middle of the week 
 
-- I created a number of MAX visual patches and also a bunch of MAX patches to generate glitchy sounds. I think I want to go for a glitchy abstract piece if I do another track instead. I am still undecided and I am feelinmg a little bit stressed because time is running out.
+- I created a number of MAX visual patches and also a bunch of MAX patches to generate glitchy sounds. I think I want to go for a glitchy abstract piece if I do another track instead. I am still undecided and I am feeling a little bit stressed because time is running out.
 
 #### End of the week 
 
