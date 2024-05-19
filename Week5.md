@@ -10,9 +10,9 @@ For track one, I imagined a first time astronaut in a spaceship afraid to leave 
 
 ## Taking inspiration from Interstellar
 
-Since I already had a theme in mind (space), I reserached the music of various space themed movies. For example: Apollo(1995), Gravity (2013), The Martian(2015), and Interstellar(2014). I found that the interstellar sound track especially the first piece, [Dreaming of the Crush](https://www.youtube.com/watch?v=kQwxecp_TVA&t=3s&ab_channel=WaterTowerMusic), closely matched the ideas I had in mind and so I studied it to understand how Hans Zimmer created the tension and how he uses music and sound design to tell the story. 
+Since I already had a theme in mind (space), I researched the music of various space themed movies. For example: Apollo(1995), Gravity (2013), The Martian(2015), and Interstellar(2014). I found that the interstellar sound track especially the first piece, [Dreaming of the Crush](https://www.youtube.com/watch?v=kQwxecp_TVA&t=3s&ab_channel=WaterTowerMusic), closely matched the ideas I had in mind and so I studied it to understand how Hans Zimmer created the tension and how he uses music and sound design to tell the story. 
 
-## Notes from [How Hans Zimmer Creates the Sound of Space in Interstellar](https://www.youtube.com/watch?v=00Vz7ybWp_c&t=3s&ab_channel=TheDaydreamSound)
+## Notes from [How Hans Zimmer Creates the Sound of Space in Interstellar](https://www.youtube.com/watch?v=n6HtAu0fNQ4&t=615s&ab_channel=ListeningIn)
 
 I found the above video on YouTube which breaks down how Hans Zimmer creates the sound of space in Interstellar
 - Wind, Air, High C, Major+Minor modes, melody, spaced chords. 
@@ -26,7 +26,7 @@ Start of the week :I will first focus on Dark winds sounds. I want it to be betw
 
 End of the week : I don't think I have yet captured the right kind of wind, and something about it feels incomplete but I am unsure how to tie it all together yet. One idea I have is to include a low perceivable tone, a drone, maybe a low C or a low Bb. This could help bring out the sound of the background machinery amidst the sounds of the wind. 
 
-End of the project : Below is a snippet of the wind sounds I created. This is the actual sounds that you hear at the begining of the piece and throughout although with different effects added to offer some contrast. These sounds form the anempathetic componet of track one as discussed in my corresponding write up. Anempathetic sounds as defined by Michel Chion (1994) are auditory elements within a composition that remain indifferent to the emotional content or narrative development, providing a steady or neutral backdrop unaffected by the fluctuating mood or intensity of the music.
+End of the project : Below is a snippet of the wind sounds I created. These are the actual sounds that you hear at the begining of the piece and throughout although with different effects added to offer some contrast. These sounds form the anempathetic component of track one as discussed in my corresponding write up. Anempathetic sounds as defined by Michel Chion (1994) are auditory elements within a composition that remain indifferent to the emotional content or narrative development, providing a steady or neutral backdrop unaffected by the fluctuating mood or intensity of the music.
 
 [Snippet of Wind Sounds](https://soundcloud.com/2504822k/snippet-of-wind-sounds)
 
