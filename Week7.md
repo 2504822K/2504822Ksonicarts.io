@@ -7,7 +7,7 @@
 The main aim of week 7 is to complete track one and also make sure the volumes are sounding better. Afterwards, I want to send the piece for feedback to my lecturer. 
 
 
-I have spent the majority of this week working on the middle (B) section of the piece. I added various sound effects to the build up to make it more intense. Some of them I sound designed myself such as the [C-tone](https://soundcloud.com/2504822k/c-tone?si=29480f3de1e04a92ada51a24196cb3c9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) , which I added for the purpose of creating a tinnutus sound like the sound used in movies in moments of distress or panic. I also added [NASA's DelatIV audio](https://soundcloud.com/2504822k/deltaivaudio?si=29480f3de1e04a92ada51a24196cb3c9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
+I have spent the majority of this week working on the middle (B) section of the piece. I added various sound effects to the build up to make it more intense. Some of them I sound designed myself such as the [C-tone](https://soundcloud.com/2504822k/c-tone?si=29480f3de1e04a92ada51a24196cb3c9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) , which I added for the purpose of creating a tinnitus sound like the sound used in movies in moments of distress or panic. I also added [NASA's DelatIV audio](https://soundcloud.com/2504822k/deltaivaudio?si=29480f3de1e04a92ada51a24196cb3c9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
  These sounds have added much needed contrast to the piece. I also ensure to add the wind sound which serve as an undercurrent or background ambience as previously discussed. 
 
 ### Reflections
