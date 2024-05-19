@@ -6,7 +6,7 @@
 
 The main aim of this week is to complete the track and send it to my lecturer if possible for further feedback.  
 
-I used similar sounds that I had used for the melodic ideas at the beginning of the piece to creating the [groaning sounds](https://soundcloud.com/2504822k/track2opening?si=6ab6547d5d2d4cd8ab70cd509b8cd743&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), which are hard before the melody is reintroduced at the end of the piece. I think this helps ease in the entry of the melody so that it is smoother and less abrupt. 
+I used similar sounds that I had used for the melodic ideas at the beginning of the piece to creating the [groaning sounds](https://soundcloud.com/2504822k/track2opening?si=6ab6547d5d2d4cd8ab70cd509b8cd743&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing), which are heard before the melody is reintroduced at the end of the piece. I think this helps ease in the entry of the melody so that it is smoother and less abrupt. 
 
 ### Reflections
 
