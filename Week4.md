@@ -28,7 +28,7 @@ To start off, I know that NASA released a collection of their sounds from differ
 I think I now have a sizeable amount of sound tracks to use, but I think I will go back to the folder and download more if required. Some sounds have inspired a direction I could take. 
 
 ## Composing Undercurrent track 
-1. Start with a bass sound - maybe the second kepler sound (Kepler Big Boom)
+1. Start with a bass sound - maybe the second Kepler sound (Kepler Big Boom)
 2.  The undercurrent should last the duration of the entire track. 
 3. The undercurrent should constantly shift but should be subtle and in the background
 4. The undercurrent is great for moments of silence within a piece. It gives a piece of music an atmosphere, or ambience and gives it life.
@@ -36,9 +36,8 @@ I think I now have a sizeable amount of sound tracks to use, but I think I will 
 
 #### End of the week 
 
-I am really stuggling creating the undercurrent. I have so many ideas and I am unsure which ones are better. I dont know what I am composing towards anymore. All I know is I have made 3 different undercurrents and none of them inspire me. I feel a bit dejected and worried about the deadline. 
+I am really struggling creating the undercurrent. I have so many ideas and I am unsure which ones are better. I dont know what I am composing towards anymore. All I know is I have made 3 different undercurrents and none of them inspire me. I feel a bit dejected and worried about the deadline. 
 
-#### After the project 
 Please find attached below a copy of one of the undercurrent tracks I composed in week 4. The volume is very low in it as that was something I was struggling with at this point in the project. Its something I worked on later on after my lectuerer advised me on it. This undercurrent track was considered a failure at this point, but later on in the project I used aspects of it in both tracks 1 and 2, especially the panned sounds in the middle section. 
 
 [Undercurrent track 2](https://soundcloud.com/2504822k/undercurrent-track-2?si=958fa7981d38403f905e83efc0576793&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
